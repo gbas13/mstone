@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: gnetServer.jar gnetClient.jar log4j-1.2.17.jar
+Main-Class: com.gbas.ms.server.ServerMus
+

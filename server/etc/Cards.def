@@ -1,0 +1,19 @@
+#
+# Cartas del juego
+#
+# Define todas las catas del juego y sus características
+#
+#
+# Nombre, equipo, leader, coste, ataque, vida, jugable a mesa, imagen, texto
+#
+Coletas, manifestante, si, 0, 0, 30, no, coletas, <no text>
+Corcuera, policia, si, 0, 2, 30, no, corcuera, <no text>
+#
+#
+Municipal, policia, no, 1, 1, 1, si, municipal, Llama a un compañero;si hay más manifestantes
+Nacional, policia, no, 2,2,1,si,nacional,
+
+#
+Cristiano, manifestante, no, 1,0,5,si,cristiano,
+Perroflauta, manifestante, no, 2,1,3, si, perroflauta,
+
